@@ -7,3 +7,6 @@
 [submodule "models/JARM"]
 	path = models/JARM
 	url = https://github.com/LoLab-MSM/JARM
+[submodule "models/earm"]
+	path = models/earm
+	url = https://github.com/sorgerlab/earm
