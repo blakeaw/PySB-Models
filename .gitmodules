@@ -1,3 +1,6 @@
 [submodule "models/PARM"]
 	path = models/PARM
 	url = https://github.com/NTBEL/PARM
+[submodule "models/CORM"]
+	path = models/CORM
+	url = https://github.com/LoLab-MSM/CORM
