@@ -4,3 +4,6 @@
 [submodule "models/CORM"]
 	path = models/CORM
 	url = https://github.com/LoLab-MSM/CORM
+[submodule "models/JARM"]
+	path = models/JARM
+	url = https://github.com/LoLab-MSM/JARM
