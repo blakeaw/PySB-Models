@@ -28,3 +28,6 @@
 [submodule "models/hetero_growth"]
 	path = models/hetero_growth
 	url = https://github.com/LoLab-MSM/hetero_growth
+[submodule "models/caspase_model"]
+	path = models/caspase_model
+	url = https://github.com/acorbat/caspase_model
