@@ -13,3 +13,6 @@
 [submodule "models/egfr"]
 	path = models/egfr
 	url = https://github.com/LoLab/egfr
+[submodule "models/marm1"]
+	path = models/marm1
+	url = https://github.com/labsyspharm/marm1-supplement
