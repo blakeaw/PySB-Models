@@ -16,3 +16,6 @@
 [submodule "models/marm1"]
 	path = models/marm1
 	url = https://github.com/labsyspharm/marm1-supplement
+[submodule "models/marm2"]
+	path = models/marm2
+	url = https://github.com/labsyspharm/marm2-supplement
