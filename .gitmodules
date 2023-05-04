@@ -19,3 +19,6 @@
 [submodule "models/marm2"]
 	path = models/marm2
 	url = https://github.com/labsyspharm/marm2-supplement
+[submodule "models/rasmodel"]
+	path = models/rasmodel
+	url = https://github.com/sorgerlab/rasmodel
