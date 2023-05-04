@@ -22,3 +22,6 @@
 [submodule "models/rasmodel"]
 	path = models/rasmodel
 	url = https://github.com/sorgerlab/rasmodel
+[submodule "models/rbm-photosynthesis"]
+	path = models/rbm-photosynthesis
+	url = https://github.com/jniznan/rbm-photosynthesis
