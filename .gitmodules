@@ -10,3 +10,6 @@
 [submodule "models/earm"]
 	path = models/earm
 	url = https://github.com/sorgerlab/earm
+[submodule "models/egfr"]
+	path = models/egfr
+	url = https://github.com/LoLab/egfr
