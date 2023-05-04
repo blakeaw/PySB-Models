@@ -25,3 +25,6 @@
 [submodule "models/rbm-photosynthesis"]
 	path = models/rbm-photosynthesis
 	url = https://github.com/jniznan/rbm-photosynthesis
+[submodule "models/hetero_growth"]
+	path = models/hetero_growth
+	url = https://github.com/LoLab-MSM/hetero_growth
